@@ -1,0 +1,1 @@
+# Shopify-product-scraper
