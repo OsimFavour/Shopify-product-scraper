@@ -20,3 +20,7 @@ This web scraper scrapes the following metrics of each listing
 - date_updated
 - compare_at_price
 
+
+# Screenshots of the products available
+ ![Database snips](https://user-images.githubusercontent.com/95959056/204161785-20630f26-ade6-4f07-9b0c-eef0607a7d96.PNG)
+
