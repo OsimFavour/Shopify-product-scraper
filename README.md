@@ -6,17 +6,17 @@ This codebase has a scraper that stores more than 800 products from a shopify st
 
 This web scraper scrapes the following metrics of each listing
 
--varid
--id
--title
--date_published
--product_type
--vendor
--vartitle
--sku
--price
--available
--date_created
--date_updated
--compare_at_price
+- varid
+- id
+- title
+- date_published
+- product_type
+- vendor
+- vartitle
+- sku
+- price
+- available
+- date_created
+- date_updated
+- compare_at_price
 
