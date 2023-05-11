@@ -36,4 +36,4 @@ This is a codebase for a scraper that extracts data from your favorite Shopify s
 - This project is licensed under the [MIT License](LICENSE). See the `LICENSE` file for details
 
 # Conclusion
-This scraper provides an easy and efficient way to keep track of
+This scraper provides an easy and efficient way to keep track of new products on your favourite Shopify stores. By using this scraper, you can save time and stay up-to-date with the lates products without the hassle of constantly checking the store's website.
