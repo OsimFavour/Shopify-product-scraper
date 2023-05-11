@@ -34,3 +34,5 @@ This is a codebase for a scraper that extracts data from your favorite Shopify s
 
 # License
 - This project is licensed under the [MIT License](LICENSE). See the `LICENSE` file for details
+
+# Conclusion
