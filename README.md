@@ -33,3 +33,4 @@ This is a codebase for a scraper that extracts data from your favorite Shopify s
 - This codebase was developed by me and was inspired by the need to easily track new products on Shopify stores.
 
 # License
+- This project is licensed under the [MIT License](LICENSE). See the `LICENSE` file for details
