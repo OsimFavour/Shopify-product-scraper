@@ -1,7 +1,7 @@
 # Shopify-product-scraper
 
 # Description
-This is a codebase for a scraper that extracts data from your favorite Shopify stores and compiles them into a detailed database. The scraper can extract hundreds or even thousands of products from a store's database, making it easier to keep track of new products and changes in inventory.
+This is a codebase for a scraper that extracts data from your favourite Shopify stores and compiles them into a detailed database. The scraper can extract hundreds or even thousands of products from a store's database, making it easier to keep track of new products and changes in inventory.
 
 # Screenshots of a Shopify store product data scraped
  ![Database snips](https://user-images.githubusercontent.com/95959056/204161785-20630f26-ade6-4f07-9b0c-eef0607a7d96.PNG)
